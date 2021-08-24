@@ -1,0 +1,2 @@
+mainmenu "light-build"
+source "examples/Kconfig"
